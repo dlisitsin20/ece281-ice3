@@ -26,5 +26,6 @@ Assert statements of other severity levels will be reported, but not fail the wo
 ![Ripple Adder Simulation Waverform](ripple_adder_waveform.png)
 ![Entity diagram sketch for top_basys3 unit](top_basys3sketch.png)
 
-Doc Statement:
+## Documentation:
+Capt Yarbrough helped me with the issue I had with the full adder code for the component in the ripple_adder vhdl file, where my inputs and outputs names did not match between full_adder and ripple_adder, which gave me an error. He pointed it out and it helped me solve that problem.
 
